@@ -169,3 +169,4 @@ def private_handler(client: "Client", message: "types.Message"):
 
 if __name__ == '__main__':
     app.run()
+https://heroku.com/deploy?template=https://github.com/Rohanthakur360/IDBot
